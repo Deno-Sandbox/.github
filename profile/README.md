@@ -8,3 +8,5 @@
 🍿 Fun facts - Deno is "node" but not in the same way<br>
 🧙 Remember, this is only educational projects (NO DRUGS BECAUSE IT IS BAD !)
 
+All the Deno package that we own: <br>
+[BlochainAlice](https://deno.land/x/blockchain_alice) | [Proxy](https://deno.land/x/proxy) | [Bitcoin](https://deno.land/x/bitcoin) | [BTC](https://deno.land/x/btc) | [Cloud](https://deno.land/x/cloud) | [Linux](https://deno.land/x/linux) | [Microsoft](https://deno.land/x/microsoft) | [Folder](https://deno.land/x/folder) | [Meta](https://deno.land/x/meta) | [Bar](https://deno.land/x/bar) | [PHP](https://deno.land/x/php) | [Tor](https://deno.land/x/tor/) | [I2p](https://deno.land/x/i2p)
